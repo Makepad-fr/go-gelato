@@ -1,2 +1,8 @@
 # go-gelato
-Gelato Print On Demand API Wrapper in Go
+
+A Go client for Gelato Print on Demand API.
+
+## Usage
+
+- [Using it as Go dependency](./lib)
+- [Using it as CLI](./cli)
